@@ -1,6 +1,6 @@
-## [E-Commerce App](https://e-commerce-exs.payloadcms.app/)
+## [E-Commerce App](https://ecommerce-pin.payloadcms.app/)
 
-[![preview](https://github.com/exslym/ecommerce/blob/main/public/preview.jpg)](https://e-commerce-exs.payloadcms.app/)
+[![preview](https://github.com/brainstormbuddy/next-payload-ecommerce/blob/main/public/preview.jpg)](https://ecommerce-pin.payloadcms.app/)
 
   <div>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logoColor=white&logo=react&color=3178C6" alt="React" />
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=3178C6" alt="Stripe" />
   </div>
 
-### PayloadCMS Deployment: [E-Commerce App](https://e-commerce-exs.payloadcms.app/)
+### PayloadCMS Deployment: [E-Commerce App](https://ecommerce-pin.payloadcms.app/)
 
 ## <a name="introduction">🤖 Description</a>
 This E-Commerce App with an Admin Dashboard & CMS builded on Next 14, React, Payload CMS and Stripe.
